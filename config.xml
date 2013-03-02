@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.myrobot.myrobot"
-	version 	= "1.0.31">
+	id		= "com.social.myrobot"
+	version 	= "1.0.32">
 
 	<name>MyRobot</name>
 
@@ -10,8 +10,8 @@
 		A social robotics platform
 	</description>
 
-	<author href="http://wgheath.github.com"
-		email="wgheath@gmail.com">
+	<author href="http://www.myrobot.com"
+		email="david@myrobot.com">
 		Tim Heath
 	</author>
 
